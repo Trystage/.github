@@ -17,6 +17,7 @@
 | **Trystage 项目画廊** | 一个集中展示优质项目成品代码的静态站点。可作为技术选型参考或学习的起点，其中包含多个功能完整的插件与应用。 | [gallery.trystage.cn](https://gallery.trystage.cn/) | [Trystage/ProjectGallery](https://github.com/Trystage/ProjectGallery) |
 | **Trystage 插件资源库** | 一个为 Minecraft 服务器管理员整理的可用插件资源库。致力于筛选和提供经过验证的稳定插件，以简化服主的搭建与维护工作。 | [res.trystage.cn](https://res.trystage.cn/) | [Trystage/Resource-library](https://github.com/Trystage/Resource-library) |
 | **Trystage 模组百科** | 使用 MediaWiki 搭建的玩家专用知识库，服务于模组服务器。专注于游戏内容的整理与社区协作编辑，是玩家学习和贡献指南的中心。 | [mod.trystage.cn](https://mod.trystage.cn) | 基于mediaWiki 搭建 |
+| **RAG Proxy** | 加载中间知识库，检索结果注入 prompt，实现无微调专项能力增强。 | 可本地部署 | [RAG Proxy](https://github.com/Trystage/RAG-Proxy) |
 
 ---
 
